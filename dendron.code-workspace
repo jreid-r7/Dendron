@@ -1,9 +1,6 @@
 {
     "folders": [
         {
-            "path": "dependencies/localhost/notes"
-        },
-        {
             "path": "notes",
             "name": "Dendron"
         }

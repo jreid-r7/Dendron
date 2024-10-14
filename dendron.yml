@@ -23,9 +23,6 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: dependencies/localhost/notes
-            name: notes
-        -
             fsPath: .
             selfContained: true
             name: Dendron
@@ -109,8 +106,3 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - notes
-            - Dendron
