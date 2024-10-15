@@ -2,7 +2,7 @@
 id: dfcnm5hb3uvp2k8g6f1jy9d
 title: '2024-10-14'
 desc: ''
-updated: 1728889527954
+updated: 1728900849042
 created: 1728889447864
 traitIds:
   - journalNote
@@ -19,22 +19,20 @@ What I need to do today:
 
 ### Morning Tasks
 
-- [ ] Tony
-- [ ] Mammad
-- [ ] Jordan
-- [ ] Olivia
+- [x] Tony
+- [x] Mammad
 
 ## Afternoon
 
 What needs done this afternoon:
 
-1. item
-2. item
+1. 1:1s
+2. Talk to Olivia about asking Eli to go in when Mammad is in.
 
 ### Afternoon Tasks
 
-- [ ] task
-- [ ] task
+- [ ] Jordan
+- [ ] Olivia
 
 ### Last thing
 
