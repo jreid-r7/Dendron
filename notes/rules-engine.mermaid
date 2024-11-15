@@ -1,0 +1,15 @@
+sequenceDiagram
+    Client->>+panda: 
+    panda->>+PPAA/DCS: Request UI Capabilities
+    par Get access data
+        PPAA/DCS->>+RBAC: Get UAP
+        PPAA/DCS->>+LES: Get License Info
+        PPAA/DCS->>+Products: Get product user access controls
+        RBAC-->>-PPAA/DCS: UAP
+        LES-->>-PPAA/DCS: Subscriptions
+        Products-->>-PPAA/DCS: Product user access controls
+    end
+    PPAA/DCS-->>-panda: UI Capabilities
+    panda->>+Rules: Get allowed UI Elements 
+    Rules-->>-panda: Allowed UI elements
+    panda-->>-Client: Allowed UI elements 

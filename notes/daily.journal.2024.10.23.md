@@ -1,9 +1,9 @@
 ---
-id: vfxoy1n1hvee48njrj0qmmw
-title: '2024-10-17'
+id: 2jccil6k1ztoa9i0w8uzcem
+title: '2024-10-23'
 desc: ''
-updated: 1731248862069
-created: 1729150105474
+updated: 1729680573148
+created: 1729680500394
 traitIds:
   - journalNote
 ---
@@ -14,7 +14,11 @@ traitIds:
 
 What I need to do today:
 
-1. Prep for tech talk
+1. Rules engine architecture  
+   1. data collection
+      1. get data, call rules, return response
+      2. get and return data, then call rules
+   2. separate service or PPAA
 2. item
 
 ### Morning Tasks
@@ -44,5 +48,3 @@ What needs to carry over:
 ### How could I have made today even better?
 
 I could have made today better by
-
-

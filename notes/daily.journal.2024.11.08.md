@@ -1,9 +1,9 @@
 ---
-id: vfxoy1n1hvee48njrj0qmmw
-title: '2024-10-17'
+id: nqmbq1fl3sagakh72dobv6q
+title: '2024-11-08'
 desc: ''
-updated: 1731248862069
-created: 1729150105474
+updated: 1731056696441
+created: 1731056696441
 traitIds:
   - journalNote
 ---
@@ -14,7 +14,7 @@ traitIds:
 
 What I need to do today:
 
-1. Prep for tech talk
+1. item
 2. item
 
 ### Morning Tasks
@@ -44,5 +44,3 @@ What needs to carry over:
 ### How could I have made today even better?
 
 I could have made today better by
-
-
