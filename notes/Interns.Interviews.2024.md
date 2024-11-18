@@ -2,7 +2,7 @@
 id: wvnlnlk9ozcagec8k05twiz
 title: '2024'
 desc: ''
-updated: 1731587943894
+updated: 1731922132581
 created: 1731575983396
 ---
 
@@ -74,4 +74,57 @@ Got there
 ### Candles
 
 Intuitively jumped to 1/2 and 1/4 for the end state and derived 3 hours from that.
+
+## Minsur Choi
+
+### String reversal
+
+Quite clear pseudo code. First person to mention exceptions.
+
+Reasonable understanding of the concepts of strings and arrays but needed prompting. Tendency to maybe over-complicate ideas in his head.
+
+Good conversations and interaction.
+
+### Gold bar problem
+
+1st pass straightforward 4 cuts. Then started to think about how to do fewer cuts. Stuck on dividing into five parts. Got 3 cuts with disgonal lines. Hinted with the term transaction. 
+
+Really good questions at the end showing appropriate curiosity.
+
+## Niamh Mason
+
+### String reversal
+
+Nice solution where we take each char and prepend to the output string. 
+
+Super clarity of thought. Worked through a really good char solution using no temp index. 
+
+### Fibonacci
+
+Has solved before. Knew about the special cases. Introduced a bug in her loop with the start index. Worked through rigorously.
+
+### Gold bars
+
+Straight to 4 cuts, guessed there was a better way. Initially fixated on producing 5 pieces.
+
+### Candles
+
+Overthought initially. Worked out a solution reasonably quickly.
+
+## Rhianne Bassett
+
+### String reversal
+
+Quick to come to reverse iteration. Take char at index and add to new string. index decreasing each time. Append char to result. Was able to optimise using char arrays.
+
+Norman's extension to count alphabetic characters and count the numbers. Talked through well, she's very conversational and relatable.
+
+### Gold bars
+
+Straight to four cuts. Really got caught up and missed the notion that she could take the 1/5 back off the worker. We got there.
+
+## Leo Chartier
+
+### String reversal
+
 
