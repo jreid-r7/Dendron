@@ -2,7 +2,7 @@
 id: wvnlnlk9ozcagec8k05twiz
 title: '2024'
 desc: ''
-updated: 1731922132581
+updated: 1732550144157
 created: 1731575983396
 ---
 
@@ -127,4 +127,96 @@ Straight to four cuts. Really got caught up and missed the notion that she could
 
 ### String reversal
 
+Add some validation, is it a string, is it longer than one character.
 
+If statement with for loop inside. Index from 0 up. Thought quickly to start from end of string. Got index out by 1. Confused a bit by static. 
+
+Very wordy, but seems to understand ok.
+
+### Coin balance
+
+Suggested binary search. Initial max 7.
+
+Moved to 4 a side. 4, 2, 1 - binary search. 3 iterations.
+
+Bit of prompting to get to 2 iterations.
+
+## Conor McQuillan
+
+### Reverse String
+
+Straight away thinking about validation. Method to reverse a sequence of characters.
+
+Iterate through each character in the string. Create temporary string and append characters to that. Worked through the iterations on the board without prompt.
+
+Implementation in Python.
+
+Given the idea of using arrays. Asked to implement that. Got the ```for``` loop fine. Worked out the off by one issues with indexes.
+
+### Coins puzzle
+
+Drew coins in a row!
+
+Straight to split in half. 3 iterations. Identified that 3 is always the answer.
+
+Told could be done in 2 - got the answer.
+
+### Candles problem
+
+Straight to drawing. Thinking about rates of burning. Made them 12cm tall, 2cm/hr and 3cm/hr. Moved to graph but not lined up - bit weird. Worked hour by hour and got three hours.
+
+### Questions
+
+Size of team, type of work. What is a micro-service?
+
+## Eben Rainey
+
+### String reverse
+
+Straight to char array in Java. Single iterator. Work backwords through output array, forwards through string. Strings are immutable - got the issue of memory management. Sanity checking - did null or empty. Identified point of first error.
+
+Asked to implement something that runs in half the time. Thought very quickly of pointing at each end and using a while loop. Clever chap, thinking of issues, identifying further optimisations on suggestions.
+
+### Fibonacci
+
+Decided he would give it a go recursively.
+
+### Coin puzzle
+
+Straight to binary search. 3 comparisons. Asked himself if there was a better way. Very quick to 3, 3, 2.
+
+## Eva Barr
+
+### Reverse string
+
+Gosh, she's quiet. Temp variable. Reverse for loop from string ength to greater than zero. Nice pseudo code - using prepend approach. Moved onto implementation. Return and parameter types ok. Suggested could be done in half the iterations she got the while loop and moving from both ends.
+
+### Coin puzzle
+
+Straight to binary and 3 comparisons.
+
+Prompted that it can be done in 2. Some prompting and got there with uneven groups.
+
+### Questions
+
+How are teams structured?
+
+## Grace Coyle
+
+### Reverse string
+
+Had read on leet code - quite unsure as to what she was doing. Confused as to what types things were. Prompted for null. Got NullPointerException
+
+### Coin puzzle
+
+Got to binary quickly. Was able to discuss nicely optimisations of these and how to split things up.
+
+## Aidan Juma
+
+### Reverse string
+
+Got a straight right to left iteration straight away with some clunky pseudo code. prompted to consider how to do it in fewer iterations. Eventually got to going from each end simultaneously. Lots of extra steps. Thinks in TypeScript. Prompted to NullPointerException. Has worked in and knows a bit about other languages and architectures. 
+
+### Coin puzzle
+
+Straight to binary. Can you do it in two? Eventually worked to an answer.
